@@ -49,6 +49,7 @@ This is a beginner-friendly command-line **Geography Quiz** built in **C**, focu
 <br>
 
 ## How To Run the Program
+
 - One way is by using an IDE like Code::Blocks or Visual Studio:
 - Create a new C project
 - Copy-paste the code
@@ -57,6 +58,7 @@ This is a beginner-friendly command-line **Geography Quiz** built in **C**, focu
 <br>
 
 ## Future Enhancements?
+
 - Integrate a file system to save high scores
 - Add more quiz questions
 - Implement a scoring leaderboard
