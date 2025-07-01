@@ -49,11 +49,11 @@ This is a beginner-friendly command-line **Geography Quiz** built in **C**, focu
 <br>
 
 ## How To Run the Program
-
-- One way is by using an IDE like Code::Blocks or Visual Studio:
-- Create a new C project
+- Go to [Code::Blocks](https://www.onlinegdb.com/)
+- Select "IDE"
 - Copy-paste the code
-- Build and run
+- Click run
+- The interface will run in the console
 
 <br>
 
