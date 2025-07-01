@@ -54,6 +54,8 @@ This is a beginner-friendly command-line **Geography Quiz** built in **C**, focu
 - Copy-paste the code
 - Build and run
 
+<br>
+
 ## Future Enhancements?
 - Integrate a file system to save high scores
 - Add more quiz questions
